@@ -3,7 +3,7 @@
 
 ---
 
-### AIM  
+### AIM   
 To write a Python program for simple implementation of Priority Queue using Queue.
 
 ---
